@@ -3,7 +3,8 @@ VTG for video title generation and cover selection
 
 The code is deployed on Ubuntu 20.04, and the required environment is listed in requirement.yml.
 
-The TSVTG dataset and model checkpoints are available on https://drive.google.com/drive/folders/1wO1UBSXRzFEhO6V1sgKmg6d6-FckXMNv?usp=sharing.
+The TSVTG dataset and model checkpoints are available on 
+https://drive.google.com/drive/folders/1Sngiu8FYRWfFXHuzQIJkbxxrB4FudWyB?usp=sharing.
 
 Experiment steps:
 
